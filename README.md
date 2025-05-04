@@ -4,28 +4,17 @@
 Hi, my name is Gustavo Silva, I'm 20 years old, I'm a systems analysis student and a developer in constant evolution, always looking for new challenges to expand my skills. Currently, I'm deepening my knowledge in React with an engaging and challenging personal project. In addition, I have a great interest in cybersecurity and I'm investing time in courses and specializations in this area.
 
 <p align="left">
-  <a href="https://www.instagram.com/guz_silv4/">
-    <img alt="instagram" title="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/-Guz Silv4-blue?style=for-the-badge&logo=mention&logoColor=white" />
+  <a href="https://www.instagram.com/guz_silv4">
+    <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Guz Silv4-purple?style=for-the-badge&logo=mention&logoColor=white" />
+  </a>
+  <a href="https://github.com/Guz-tech?tab=followers">
+    <img alt="Seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guz-tech?color=236ad3&labelColor=blue&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
+  </a>
+  <a href="https://github.com/Guz-tech?tab=stars">
+    <img alt="Stars" title="Github Stars" src="https://custom-icon-badges.demolab.com/github/stars/Guz-tech?color=236ad3&labelColor=yellow&style=for-the-badge&logo=star&label=Stars&logoColor=white" />
   </a>
 </p>
 
-   </a>
-    <a href="https://github.com/Guz-tech?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Guz-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</a> 
-    <a href="https://github.com/Guz-tech?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total Stars Github" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Guz-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-</p>
 
 ---
 ## 🤖 Languages 
