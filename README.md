@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Guz-tech
-**Fullstack developer** | **Cybersecurity** | **Linux** | **SHELL** | **Systems Analyst Technologist**
+**Developer** | **Cybersecurity** | **Linux** | **SHELL** | **Systems Analyst Technologist**
 
 Hi, my name is Gustavo Silva, I'm 20 years old, I'm a systems analysis student and a developer in constant evolution, always looking for new challenges to expand my skills. Currently, I'm deepening my knowledge in React with an engaging and challenging personal project. In addition, I have a great interest in cybersecurity and I'm investing time in courses and specializations in this area.
 
@@ -28,8 +28,7 @@ Hi, my name is Gustavo Silva, I'm 20 years old, I'm a systems analysis student a
 </p>
 
 ---
-## 🤖 Languages ​​and Technologies
-
+## 🤖 Languages 
 
 <img 
     align="left"
@@ -67,6 +66,31 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   />
 
+<img 
+    align="left"
+    alt="NodeJs"
+    title="NodeJs"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+  />
+
+  <img 
+    align="left"
+    alt="NPM"
+    title="NPM"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+  />
+
+  <br/>
+  <br/>
+
+  ---
+
+  ## 💻 Technologies
+
   <img 
     align="left"
     alt="Bash"
@@ -75,7 +99,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
   />
-
 
 <img 
     align="left"
@@ -86,7 +109,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
 />
 
-
  <img 
     align="left"
     alt="SSH"
@@ -95,7 +117,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powers
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" 
  />
-
 
 <img 
     align="left"
@@ -106,8 +127,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powers
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
-<br/>
-<br/>
+  <br/>
+  <br/>
 
 ### 📊 Statiscs
 <div style="display: flex; justify-content: space-between;">
