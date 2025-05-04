@@ -4,13 +4,11 @@
 Hi, my name is Gustavo Silva, I'm 20 years old, I'm a systems analysis student and a developer in constant evolution, always looking for new challenges to expand my skills. Currently, I'm deepening my knowledge in React with an engaging and challenging personal project. In addition, I have a great interest in cybersecurity and I'm investing time in courses and specializations in this area.
 
 <p align="left">
-    <a href="https://www.instagram.com/guz_silv4/">
+  <a href="https://www.instagram.com/guz_silv4/">
+    <img alt="instagram" title="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/-Guz Silv4-blue?style=for-the-badge&logo=mention&logoColor=white" />
+  </a>
+</p>
 
-<img
-    alt="instagram"
-    title="instagram profile"
-    src="https://custom-icon-badges.demolab.com/badge/-Guz_Silv4 -blue?style=for-the-badge&logo=mention&logoColor=white"
-/>
    </a>
     <a href="https://github.com/Guz-tech?tab=followers">
         <img 
@@ -112,18 +110,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 <br/>
 
 ### 📊 Statiscs
-
+<div style="display: flex; justify-content: space-between;">
 <img 
     align="left"
     alt="Github Stats"
-    height="200"
+    height="140"
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=Guz-tech&show_icons=true&theme=tokyonight&include_all_commits=true"
 />
 <img 
     align="left"
     alt="Github Stats"
-    height="200"
+    height="110"
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guz-tech&layout=compact&theme=tokyonight&custom_title=Technologies&langs_count=6"
 />
